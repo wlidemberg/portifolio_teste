@@ -34,3 +34,18 @@ Validar a qualidade funcional de um e-commerce fictício, por meio da criação 
 
 ## 🐞 Bug Report — Cadastro
 ![Bug Report - Cadastro Usuário](imagens_videos/bug_report_cadastro_usuario.png)
+
+### ➡️ Ações do Fluxo de Login
+* Preencher dados do formulário.
+* Submeter o formulário de login.
+* Visualizar mensagens de erros de validação.
+* Visualizar mensagem de sucesso após login.
+
+### 📃 Lista de Cenários
+* Login com credenciais válidas.[ x ]
+* Login com E-mail inválido.
+* Login com e-mail não cadastrado.
+* Login com CPF inválido.
+* Login com CPF não cadastrado.
+* Login com senha incorreta.
+* Login com campos em branco.
