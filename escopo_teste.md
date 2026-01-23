@@ -49,3 +49,6 @@ Validar a qualidade funcional de um e-commerce fictício, por meio da criação 
 * Login com CPF não cadastrado.
 * Login com senha incorreta.
 * Login com campos em branco.
+
+## 📊 Matriz de Casos de Teste — Login
+![Matriz de Casos de Teste - Login](imagens_videos/caso_testes_login.png)
