@@ -52,3 +52,6 @@ Validar a qualidade funcional de um e-commerce fictício, por meio da criação 
 
 ## 📊 Matriz de Casos de Teste — Login
 ![Matriz de Casos de Teste - Login](imagens_videos/caso_testes_login.png)
+
+## 🐞 Bug Report - Login
+![Bug Report - Login](imagens_videos/bug_report_login.png)
